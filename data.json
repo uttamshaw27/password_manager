@@ -1,0 +1,22 @@
+{
+    "amazon": {
+        "email": "xyz@gmail.com",
+        "password": "gBRzS(2#4(yGZ"
+    },
+    "facebook": {
+        "email": "xyz@gmail.com",
+        "password": "hK9jEG$!sF)Y76#W"
+    },
+    "google": {
+        "email": "xyz@gmail.com",
+        "password": "q5x7zHt!bEL%"
+    },
+    "twiter": {
+        "email": "xyz@gmail.com",
+        "password": "6R*&B+g+Xxr2fm"
+    },
+    "pythonanywhere": {
+        "email": "sharehomepyhton@gmail.com",
+        "password": "wZ&U##oAR0p3s9"uttam567
+    }
+}
